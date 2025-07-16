@@ -51,6 +51,7 @@ This project utilizes machine learning and computer vision to analyze cybersecur
 -Analyzing cybersecurity datasets for phishing or intrusion detection.
 
 -Teaching ML concepts with a user-friendly interface.
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 **SAMPLE USAGE**
 -------------------------------------------------------------------------------------------------------------------------------------------
